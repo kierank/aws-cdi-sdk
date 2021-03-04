@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['idle_5faccumulator',['idle_accumulator',['../structThreadUtilizationState.html#ac33d476a9309b7b0c9159a2d228e8027',1,'ThreadUtilizationState']]],
+  ['in_5fuse_5flist',['in_use_list',['../structCdiPoolState.html#add3e46ff5a5ca55221ced74bf19a0fd0',1,'CdiPoolState']]],
+  ['in_5fuse_5flist_5fentry',['in_use_list_entry',['../structCdiPoolItem.html#a972ff68f1ad7670d9c3f3889be995b92',1,'CdiPoolItem']]],
+  ['init_5fcontext_5fptr',['init_context_ptr',['../structCdiPoolState.html#ae86a6192d32b4360cc931f69709fea99',1,'CdiPoolState']]],
+  ['init_5ffn_5fptr',['init_fn_ptr',['../structCdiPoolState.html#a2b3f84e6ed10c5d6b2328730b8d7c7f3',1,'CdiPoolState']]],
+  ['initialized',['initialized',['../baseline__profile_8c.html#ad06983e7f6e71b233ea7ff3dee1952f2',1,'initialized():&#160;baseline_profile.c'],['../logger_8c.html#aedeffc7d23da25d52b9a50045189fe2b',1,'initialized():&#160;logger.c']]],
+  ['interlace',['interlace',['../structCdiAvmVideoConfig.html#a3d2dc99e3cf4cb09354860927897de08',1,'CdiAvmVideoConfig']]],
+  ['internal_5fdata_5fptr',['internal_data_ptr',['../structCdiSglEntry.html#a364085884821b8bebe417c027d6924a2',1,'CdiSglEntry::internal_data_ptr()'],['../structCdiSgList.html#af98b4acd3c07d21f3bf4cd2ce4fbbf17',1,'CdiSgList::internal_data_ptr()']]],
+  ['is_5fdone',['is_done',['../structCdiThreadInfo.html#ae4563d21af953be1d4fd8e6e7e931623',1,'CdiThreadInfo']]],
+  ['is_5fexisting_5fbuffer',['is_existing_buffer',['../structCdiPoolState.html#a3690798f4e67d1ed85b8d292d7ec5609',1,'CdiPoolState']]],
+  ['is_5fpop',['is_pop',['../structCdiQueueCbData.html#a1082abf4a851188282bbc4ba775d9be9',1,'CdiQueueCbData']]],
+  ['is_5fput',['is_put',['../structCdiPoolCbData.html#aecb64c917951292eb597218c893d2c29',1,'CdiPoolCbData']]],
+  ['is_5fread',['is_read',['../structCdiFifoCbData.html#a3de64aa880f67297b01053153d6d99df',1,'CdiFifoCbData']]],
+  ['is_5freceiver',['is_receiver',['../structCloudWatchTransferStats.html#a19c3528c39d6274abcb1a5a764b9d804',1,'CloudWatchTransferStats']]],
+  ['is_5fsocket_5fbased',['is_socket_based',['../structEfaAdapterState.html#a6a9b39fc357f6b8378648ce9f983495b',1,'EfaAdapterState']]],
+  ['item_5farray',['item_array',['../structCdiFifoState.html#ae36f9420f9f342b6406ffc760b13e699',1,'CdiFifoState']]],
+  ['item_5fbyte_5fsize',['item_byte_size',['../structCdiFifoState.html#a8f2e95fea690f3ae868d0693edc4f8ec',1,'CdiFifoState']]],
+  ['item_5fcount',['item_count',['../structCdiFifoState.html#a5127c73b88e1480f85f0b4e5e89ce1ba',1,'CdiFifoState']]],
+  ['item_5fdata_5fbuffer',['item_data_buffer',['../structCdiPoolItem.html#a7b89a8cdd88871456180be8eb5a404b8',1,'CdiPoolItem::item_data_buffer()'],['../structQueueItem.html#ad0c16a295e25cd685b2b41102134f9fe',1,'QueueItem::item_data_buffer()']]],
+  ['item_5fdata_5fptr',['item_data_ptr',['../structCdiPoolCbData.html#a2bd0f270f6453f5d07a756b94d6ddf88',1,'CdiPoolCbData::item_data_ptr()'],['../structCdiQueueCbData.html#a2d31029b1b5f863d4744fc6012dbc7fb',1,'CdiQueueCbData::item_data_ptr()'],['../structCdiFifoCbData.html#ac1b384efa8a2ea6d98d4909f969ffdb4',1,'CdiFifoCbData::item_data_ptr()']]]
+];
